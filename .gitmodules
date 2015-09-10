@@ -55,3 +55,6 @@
 [submodule "lib/away3d-core-fp11"]
 	path = lib/away3d-core-fp11
 	url = https://github.com/away3d/away3d-core-fp11.git
+[submodule "lib/robotlegs-extensions-SignalCommandMap"]
+	path = lib/robotlegs-extensions-SignalCommandMap
+	url = https://github.com/pixels4nickels/robotlegs-extensions-SignalCommandMap.git
