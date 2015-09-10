@@ -1,0 +1,6 @@
+[submodule "lib/svgweb"]
+	path = lib/svgweb
+	url = https://github.com/Justinfront/svgweb.git
+[submodule "lib/robotlegs-extensions-SARS"]
+	path = lib/robotlegs-extensions-SARS
+	url = https://github.com/Justinfront/robotlegs-extensions-SARS.git
