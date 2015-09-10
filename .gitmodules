@@ -7,3 +7,33 @@
 [submodule "lib/as3-signals"]
 	path = lib/as3-signals
 	url = https://github.com/robertpenner/as3-signals
+[submodule "lib/robotlegs-framework"]
+	path = lib/robotlegs-framework
+	url = https://github.com/robotlegs/robotlegs-framework.git
+[submodule "lib/Starling-Extension-Graphics"]
+	path = lib/Starling-Extension-Graphics
+	url = https://github.com/StarlingGraphics/Starling-Extension-Graphics.git
+[submodule "lib/swiftsuspenders"]
+	path = lib/swiftsuspenders
+	url = https://github.com/robotlegs/swiftsuspenders
+[submodule "lib/GreenSock-AS3"]
+	path = lib/GreenSock-AS3
+	url = https://github.com/greensock/GreenSock-AS3.git
+[submodule "lib/Gestouch"]
+	path = lib/Gestouch
+	url = https://github.com/fljot/Gestouch.git
+[submodule "lib/as3-crypto"]
+	path = lib/as3-crypto
+	url = https://github.com/timkurvers/as3-crypto
+[submodule "lib/feathers"]
+	path = lib/feathers
+	url = https://github.com/BowlerHatLLC/feathers.git
+[submodule "lib/hamcrest-as3"]
+	path = lib/hamcrest-as3
+	url = https://github.com/drewbourne/hamcrest-as3.git
+[submodule "lib/minimalcomps"]
+	path = lib/minimalcomps
+	url = https://github.com/minimalcomps/minimalcomps.git
+[submodule "lib/parallelpaint-client"]
+	path = lib/parallelpaint-client
+	url = https://github.com/karfau/parallelpaint-client.git
