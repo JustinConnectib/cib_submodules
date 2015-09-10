@@ -37,3 +37,12 @@
 [submodule "lib/parallelpaint-client"]
 	path = lib/parallelpaint-client
 	url = https://github.com/karfau/parallelpaint-client.git
+[submodule "lib/as3-commons"]
+	path = lib/as3-commons
+	url = https://github.com/Justinfront/as3-commons.git
+[submodule "lib/RL2-SimpleCommand"]
+	path = lib/RL2-SimpleCommand
+	url = https://github.com/FranklinCovey/RL2-SimpleCommand.git
+[submodule "lib/Starling-Framework"]
+	path = lib/Starling-Framework
+	url = https://github.com/Gamua/Starling-Framework.git
